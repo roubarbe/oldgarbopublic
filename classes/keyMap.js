@@ -1,0 +1,40 @@
+//keyMap.js
+
+let keyMap = {
+    SYSREQ  :240,
+    PF1     :241,
+    PF2     :242,
+    PF3     :243,
+    PF4     :244,
+    PF5     :245,
+    PF6     :246,
+    PF7     :247,
+    PF8     :248,
+    PF9     :249,
+    PF10    :122,
+    PF11    :123,
+    PF12    :124,
+    PF13    :193,
+    PF14    :194,
+    PF15    :195,
+    PF16    :196,
+    PF17    :197,
+    PF18    :198,
+    PF19    :199,
+    PF20    :200,
+    PF21    :201,
+    PF22    :74,
+    PF23    :75,
+    PF24    :76,
+    PA1     :108,
+    PA2     :110,
+    PA3     :107,
+    CLEAR   :109,
+    CLEARP  :106,
+    ENTER   :125,
+    SELECTORPEN :126,
+    MAGOPID :230,
+    MAGREAD :231
+};
+
+module.exports = keyMap;
